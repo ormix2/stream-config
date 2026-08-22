@@ -1,9 +1,9 @@
 FEXINI=https://fexini.net/;https://raw.githubusercontent.com/ormix2/stream-config/main/fexini.png;SERIES ET FILMS
-NAKIOS=https://nakios.live/adresse-officielle/;https://github.com/ormix2/stream-config/blob/main/nakios.png;SERIES ET FILMS
+NAKIOS=https://nakios.live/adresse-officielle/;https://github.com/ormix2/stream-config/blob/main/nakios.png?raw=true;SERIES ET FILMS
 ANIME-SAMA=https://anime-sama.to;https://raw.githubusercontent.com/anime-sama/IMG/img/autres/logo.png;ANIMES
-PIDOOV=https://pidoov.com/xv5lzk/home/pidoov;https://github.com/ormix2/stream-config/blob/main/pidoov.webp;FILMS
-NAKASTREAM=https://nakastream.tv;https://github.com/ormix2/stream-config/blob/main/naka.webp;SERIES ET FILMS
-WookaFR=https://wookafr.center;https://github.com/ormix2/stream-config/blob/main/wooka.webp;SERIES ET FILMS
-openflix=https://openflix.lol;https://github.com/ormix2/stream-config/blob/main/openflix.png;SERIES ET FILMS
+PIDOOV=https://pidoov.com/xv5lzk/home/pidoov;https://github.com/ormix2/stream-config/blob/main/pidoov.webp?raw=true;FILMS
+NAKASTREAM=https://nakastream.tv;https://github.com/ormix2/stream-config/blob/main/naka.webp?raw=true;SERIES ET FILMS
+WookaFR=https://wookafr.center;https://github.com/ormix2/stream-config/blob/main/wooka.webp?raw=true;SERIES ET FILMS
+openflix=https://openflix.lol;https://github.com/ormix2/stream-config/blob/main/openflix.png?raw=true;SERIES ET FILMS
 french-stream=https://french-stream.one;https://github.com/ormix2/stream-config/blob/main/french.webp?raw=true;SERIES ET FILMS
 
