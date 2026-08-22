@@ -5,5 +5,5 @@ PIDOOV=https://pidoov.com/xv5lzk/home/pidoov;https://github.com/ormix2/stream-co
 NAKASTREAM=https://nakastream.tv;https://github.com/ormix2/stream-config/blob/main/naka.webp;SERIES ET FILMS
 WookaFR=https://wookafr.center;https://github.com/ormix2/stream-config/blob/main/wooka.webp;SERIES ET FILMS
 openflix=https://openflix.lol;https://github.com/ormix2/stream-config/blob/main/openflix.png;SERIES ET FILMS
-french-stream=https://french-stream.one;https://github.com/ormix2/stream-config/blob/main/french.webp;SERIES ET FILMS
+french-stream=https://french-stream.one;https://github.com/ormix2/stream-config/blob/main/french.webp?raw=true;SERIES ET FILMS
 
