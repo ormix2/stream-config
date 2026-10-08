@@ -1,4 +1,4 @@
-FEXINI=https://fexini.net/;https://raw.githubusercontent.com/ormix2/stream-config/main/fexini.png;SERIES ET FILMS
+FEXINI=https://miaw.tv/;https://raw.githubusercontent.com/ormix2/stream-config/main/fexini.png;SERIES ET FILMS
 NAKIOS=https://nakios.live;https://github.com/ormix2/stream-config/blob/main/nakios.png?raw=true;SERIES ET FILMS
 ANIME-SAMA=https://anime-sama.to;https://raw.githubusercontent.com/anime-sama/IMG/img/autres/logo.png;ANIMES
 PIDOOV=https://pidoov.com/xv5lzk/home/pidoov;https://github.com/ormix2/stream-config/blob/main/pidoov.webp?raw=true;FILMS
